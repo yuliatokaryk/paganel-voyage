@@ -66,3 +66,5 @@ group :development do
 end
 
 gem 'openweathermap', '~> 0.2.3'
+
+gem "tailwindcss-rails", "~> 2.0"
